@@ -135,32 +135,6 @@ The cleaned dataset is stored in a **SQLite database** to perform structured que
 
 ---
 
-## 7. Machine Learning Model
-
-A machine learning model is built to predict **engagement rate** using post characteristics.
-
-### Target Variable
-
-engagement_rate
-
-### Features
-
-* media_type
-* caption_length
-* hashtags_count
-* content_category
-* traffic_source
-
-### Model
-
-Random Forest Regressor
-
-### Evaluation Metrics
-
-* R² Score
-* Mean Squared Error
-
----
 
 # Key Analyses Conducted
 
